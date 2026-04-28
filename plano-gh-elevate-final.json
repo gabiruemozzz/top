@@ -1,0 +1,1049 @@
+{
+  "meta": {
+    "project_name": "GH-ELEVATE EX++",
+    "product_type": "Adult Height Reactivation Formula",
+    "generation_date": "2026-04-27",
+    "language": "en-US",
+    "currency": "USD",
+    "note_to_ai": "Template gerado pela Fábrica de Produtos Vencedores. Cada image_prompt é input direto para Midjourney/GPT-4o Image. Cada svg_description gera um SVG customizado.",
+    "pages_included": ["landing_page", "advertorial"]
+  },
+  "branding": {
+    "selected": {
+      "name": "GH-ELEVATE EX++",
+      "name_with_tm": "GH-ELEVATE EX++™",
+      "slogan": "5 Centimeters in 90 Days. Without Surgery.",
+      "description_one_liner": "GH-ELEVATE EX++™: Adult Growth Plate Reactivation — 90 Days to +5cm",
+      "tone_of_voice": "Premium, Scientific, Direct-Response",
+      "palette": {
+        "primary": "#0D1B2A",
+        "primary_dark": "#070E18",
+        "accent_gold": "#00D9CB",
+        "accent_gold_dark": "#008B8B",
+        "text": "#E8EEF5",
+        "text_light": "#8A9AAE",
+        "background": "#0A0E1A",
+        "secondary": "#0F1828",
+        "danger": "#FF5050",
+        "success": "#00FF94"
+      },
+      "typography": {
+        "heading": "Space Grotesk",
+        "body": "Inter Tight",
+        "accent": "JetBrains Mono"
+      },
+      "monogram_badge": "ghx",
+      "product_formula_line": "Somatropex-9 · IGF-Arc · Nano-Calcium · L-Ornithine HCL"
+    }
+  },
+  "briefing": {
+    "product_category": "supplement",
+    "product_subcategory": "adult height reactivation",
+    "physical_attributes": {
+      "format": "matte black bottle with cyan label and screw cap",
+      "volume_ml": null,
+      "color_primary": "#0D1B2A",
+      "color_secondary": "#00D9CB",
+      "texture_implied": "vegan capsule, time-release coating"
+    },
+    "inferred_target_audience": {
+      "gender": "male",
+      "age_range": "22-38",
+      "primary_pain": "competent and ambitious, but not taken seriously because of height",
+      "secondary_pains": [
+        "passed over for promotions despite better performance",
+        "swiped left on dating apps before they read the bio",
+        "feels invisible in group photos and meetings",
+        "tried elevator shoes and lifts — felt like a fraud",
+        "told 'genetics decided this for you' by every doctor"
+      ]
+    },
+    "suggested_price_range": {
+      "currency": "USD",
+      "sale_single": 49.00,
+      "anchor_single": 99.00,
+      "discount_percent": 50,
+      "best_deal_4x": 147.00,
+      "best_deal_4x_anchor": 396.00
+    },
+    "key_ingredients": [
+      "Somatropex-9 (proprietary 9-factor reactivation complex, 240mg)",
+      "IGF-Arc Bioactivator (L-Arginine + L-Lysine + L-Glutamine matrix, 1,800mg)",
+      "Nano-Calcium Hydroxyapatite (340nm particle size, 600mg)",
+      "L-Ornithine HCL (clinical dose, 1,200mg)",
+      "Vitamin K2-MK7 + D3 + Magnesium Glycinate stack"
+    ],
+    "possible_claims_with_numbers": [
+      "+5cm average growth in 90 days",
+      "92.4% of users measure visible growth by week 4",
+      "47.8% increase in nocturnal Growth Hormone pulses",
+      "340 nanometer calcium particles — small enough to enter epiphyseal cartilage",
+      "11,847 verified users tracked",
+      "Re-activates dormant growth plates documented up to age 41",
+      "First measurable change: 14-21 days",
+      "Ramp-up curve: slow weeks 1-2, accelerates weeks 3-12"
+    ]
+  },
+  "landing_page": {
+    "header": {
+      "logo_text": "GH-ELEVATE EX++™",
+      "menu": ["SCIENCE", "RESULTS", "PROTOCOL", "FAQ", "CONTACT"],
+      "cart_icon": true
+    },
+    "hero": {
+      "rating_stars": 4.9,
+      "rating_count_text": "Rated by 11,847+ Verified Men",
+      "main_headline": "\"I Grew 4.6cm at 31. My Doctor Said It Was Impossible.\": The Underground Korean Compound That's Quietly Reactivating Adult Growth Plates",
+      "subheadline": "+5cm average in 90 days. No surgery. No injections. No prescription.",
+      "bullet_points": [
+        "Reactivates dormant epiphyseal plates documented up to age 41",
+        "First measurable change in 14-21 days, then accelerating",
+        "11,847 verified users — average gain: 5.2cm in 90 days",
+        "Replaces $42,000 limb-lengthening surgery with $49 a month"
+      ],
+      "social_proof_row": {
+        "text": "Verified Customers This Quarter",
+        "stock_status": "In stock — ships within 24 hours"
+      },
+      "cta_button_text": "SEE TODAY'S 50% OFF PRICE",
+      "trust_badges": [
+        {
+          "label": "Third-Party Lab Verified",
+          "svg_description": "Frasco de laboratório com checkmark dentro de hexágono, linhas de 2px, cor accent_gold #00D9CB, fundo transparente, estilo técnico-científico minimalista"
+        },
+        {
+          "label": "GMP-Certified Facility",
+          "svg_description": "Selo certificação industrial com engrenagem ao redor, linhas de 2px, cor accent_gold #00D9CB, fundo transparente"
+        },
+        {
+          "label": "90-Day Growth Guarantee",
+          "svg_description": "Régua vertical com seta apontando pra cima e número 90 ao lado, linhas de 2px, cor accent_gold #00D9CB, fundo transparente"
+        },
+        {
+          "label": "Backed by Endocrinologists",
+          "svg_description": "Estetoscópio formando círculo com molécula no centro, linhas de 2px, cor accent_gold #00D9CB, fundo transparente"
+        }
+      ],
+      "hero_images": {
+        "main_image": {
+          "alt": "GH-ELEVATE EX++ bottle with athletic young man",
+          "image_prompt": "Cinematic editorial photo of a confident athletic man in his late 20s, photographed from below with a slight upward angle to emphasize stature and presence. He stands in a modern minimalist apartment with floor-to-ceiling windows showing a city skyline at twilight. He wears a fitted dark t-shirt and tailored trousers, expression composed and self-assured. Beside him on a sleek black marble counter rests the GH-ELEVATE EX++™ matte black bottle with cyan accent label clearly readable: 'GH-ELEVATE EX++ — Adult Growth Plate Reactivation — 90 Days to +5cm'. Lighting is moody dark biohacker aesthetic with cyan rim lighting. Premium tech-pharma campaign style, similar to Athletic Greens or Function Health visual language. No text overlay."
+        },
+        "thumbnails": [
+          {
+            "position": 1,
+            "alt": "GH-ELEVATE EX++ hero — athletic man with bottle",
+            "image_prompt": "Cinematic editorial photo of a confident athletic man in his late 20s photographed from below, modern minimalist apartment with city skyline at twilight, wearing fitted dark t-shirt and tailored trousers, GH-ELEVATE EX++ matte black bottle on black marble counter with cyan label clearly readable. Moody biohacker aesthetic with cyan rim lighting."
+          },
+          {
+            "position": 2,
+            "alt": "Macro product shot",
+            "image_prompt": "Ultra-close macro photo of the GH-ELEVATE EX++™ matte black bottle on a polished obsidian surface. Cyan accent label is razor-sharp legible: 'GH-ELEVATE EX++ — Somatropex-9 Complex'. Single beam of cyan light cuts diagonally across the frame catching the label. Background fades to pure black. Apple-product-launch aesthetic, ultra-premium tech photography."
+          },
+          {
+            "position": 3,
+            "alt": "Capsule cross-section reveal",
+            "image_prompt": "Hyper-detailed macro shot of a single GH-ELEVATE EX++™ time-release capsule, cut in half, revealing a layered interior with cyan-tinted nano-particles suspended in a clear gel matrix. Particles glow faintly. Black background with subtle cyan volumetric lighting. Scientific product photography, the kind used by SpaceX or Tesla launch decks."
+          },
+          {
+            "position": 4,
+            "alt": "Height measurement morning routine",
+            "image_prompt": "First-person POV photo of a man measuring his own height against a vertical wall-mounted height chart in his bathroom, morning light. His hand holds a level against the top of his head. The wall chart shows pencil marks at 178cm and 182.6cm with a date stamp. GH-ELEVATE EX++ bottle visible on the bathroom counter. Realistic, documentary-style — feels like a real user tracking progress."
+          },
+          {
+            "position": 5,
+            "alt": "Lifestyle confidence shot",
+            "image_prompt": "Editorial photo of the same man (late 20s, athletic) walking confidently down a city street between two slightly shorter colleagues in business attire. He's mid-laugh, head turned to the man on his left. The angle subtly emphasizes his height advantage. Warm late-afternoon light. Premium lifestyle photography conveying 'this is who he became' without being explicit."
+          }
+        ]
+      }
+    },
+    "scrolling_banner_top": {
+      "background_color": "#070E18",
+      "text_color": "#00D9CB",
+      "items": [
+        "11,847 VERIFIED USERS",
+        "AVERAGE GAIN: 5.2cm IN 90 DAYS",
+        "92.4% MEASURE GROWTH BY WEEK 4",
+        "ONLY 314 KITS LEFT AT THIS PRICE"
+      ],
+      "animation": "infinite horizontal scroll"
+    },
+    "core_benefits_section": {
+      "title": "5 Centimeters Taller. In 90 Days. Without Touching a Scalpel.",
+      "subtitle": "*The first formula in the world that targets the dormant cells the medical establishment swore couldn't be reactivated.*",
+      "layout": "two columns with product image in center",
+      "center_image": {
+        "alt": "GH-ELEVATE EX++ bottle isolated",
+        "image_prompt": "Centered vertical hero shot of the GH-ELEVATE EX++™ matte black bottle floating against a deep navy background with subtle cyan particle effects swirling around it. Label is razor-sharp legible: 'GH-ELEVATE EX++ — Adult Growth Plate Reactivation — Somatropex-9 Complex — 90 Capsules'. Strong directional cyan rim lighting. Premium tech-supplement product photography, the kind used by Whoop, Eight Sleep, or Athletic Greens."
+      },
+      "benefits_left_column": [
+        {
+          "title": "Reactivates Growth Plates Doctors Said Were Closed",
+          "svg_description": "Ícone de osso longo com setas circulares ao redor da extremidade superior simbolizando reativação, linhas de 2px, cor primary #0D1B2A com glow cyan, fundo transparente, estilo médico-científico"
+        },
+        {
+          "title": "+5cm Documented in 90 Days",
+          "svg_description": "Régua vertical estilizada com marcadores de 0 a 5cm e seta ascendente, linhas de 2px, cor primary, fundo transparente"
+        },
+        {
+          "title": "Triggers Nocturnal HGH Pulses by 47.8%",
+          "svg_description": "Lua crescente com onda de pulso (sinal cardíaco) atravessando, linhas de 2px, cor primary, fundo transparente"
+        }
+      ],
+      "benefits_right_column": [
+        {
+          "title": "340nm Calcium — Small Enough to Enter Cartilage",
+          "svg_description": "Estrutura molecular hexagonal com partículas pequenas atravessando uma membrana, linhas de 2px, cor primary, fundo transparente"
+        },
+        {
+          "title": "Zero Side Effects in 11,847 User Trials",
+          "svg_description": "Escudo com checkmark e número 11,847 estilizado abaixo, linhas de 2px, cor primary, fundo transparente"
+        },
+        {
+          "title": "One Capsule. Replaces Stretching, Yoga, Hanging, Lifts.",
+          "svg_description": "Cápsula central com 4 ícones tachados ao redor (alongamento, yoga, barra, palmilha), linhas de 2px, cor primary, fundo transparente"
+        }
+      ]
+    },
+    "transformations_carousel": {
+      "title": "See What's Happening to Real Men Right Now",
+      "layout": "7 cards horizontal scrollable",
+      "cards": [
+        {
+          "position": 1,
+          "name": "Marcus T.",
+          "age": 28,
+          "star_rating": 5,
+          "tags": ["+5.4CM", "DAY 87"],
+          "title": "I Stopped Wearing the Lifts. I Don't Need Them.",
+          "testimonial": "Day 1: 174.2cm. Day 87: 179.6cm. I measured every Sunday morning, same wall, same time, before coffee. The first 14 days nothing happened and I almost gave up. Then week 3 my jeans were too short. By week 6 my friend at the gym asked if I'd started doing inversion therapy. I just smiled.",
+          "verified": true,
+          "bottles_bought": 4,
+          "image_prompt": "Realistic before/after split photo of a 28-year-old athletic man, full body, photographed against the same wall on Day 1 and Day 87. Same clothing, same posture, same camera angle. Visible height difference clearly marked with horizontal reference line. The man's expression shifts from neutral to subtly proud. Documentary-style realism, soft window light."
+        },
+        {
+          "position": 2,
+          "name": "Daniel R.",
+          "age": 34,
+          "star_rating": 5,
+          "tags": ["+4.1CM", "DAY 90"],
+          "title": "My Wife Noticed Before I Told Her I Was Taking Anything",
+          "testimonial": "I'm 34. Every endocrinologist told me growth plates fuse by 21. They were wrong. My wife came up behind me at the kitchen counter on day 52 and asked when I'd started standing up straighter. I hadn't. I was just taller. By day 90 I'd grown 4.1cm. My posture didn't change. My bones did.",
+          "verified": true,
+          "bottles_bought": 4,
+          "image_prompt": "Realistic before/after split image of a 34-year-old man with his wife in the kitchen, casual home environment. Both photos show him from behind at the counter. The 'after' photo subtly shows him taller relative to the same kitchen counter and his wife next to him. Warm domestic lighting, candid feel."
+        },
+        {
+          "position": 3,
+          "name": "Kenji A.",
+          "age": 25,
+          "star_rating": 5,
+          "tags": ["+6.2CM", "DAY 120"],
+          "title": "I Was 169cm. I'm 175.2cm. I'm Still Going.",
+          "testimonial": "I bought 6 bottles. I'm finishing month 4 and I'm still measuring growth. Slower now — about 0.4cm a month after the first 90 days — but it's still happening. I went from 169cm to 175.2cm. My driver's license says one number, my body says another. I'll update again at month 6.",
+          "verified": true,
+          "bottles_bought": 6,
+          "image_prompt": "Realistic full-body photo of a 25-year-old Asian man standing against a height chart wall in his bedroom, holding a calendar marking day 120. Athletic build, casual clothes, confident neutral expression. Natural window light, documentary realism."
+        },
+        {
+          "position": 4,
+          "name": "James W.",
+          "age": 31,
+          "star_rating": 4,
+          "tags": ["+3.8CM", "DAY 90"],
+          "title": "Less Than Average — But Still Real",
+          "testimonial": "Honest review. The marketing says +5cm average. I got +3.8cm in 90 days. Below average. But I'm 31 and a finance VP who travels constantly and skips capsules — I probably averaged 70% compliance. 3.8cm is still 3.8cm. My suits had to be re-tailored. Would I do it again? Yes. Am I going for another 90 days? Already started.",
+          "verified": true,
+          "bottles_bought": 3,
+          "image_prompt": "Realistic photo of a 31-year-old man in business attire (no tie, sleeves rolled up) standing in front of a tailor's mirror, marking sleeve length adjustments. Side-by-side comparison with the same man 90 days earlier in the same suit, sleeves now visibly too short. Soft tailor-shop lighting."
+        },
+        {
+          "position": 5,
+          "name": "Anthony L.",
+          "age": 26,
+          "star_rating": 5,
+          "tags": ["+5.7CM", "DAY 90"],
+          "title": "I Was Going to Pay $42,000 for Limb Lengthening",
+          "testimonial": "Six months ago I had a consultation booked in Istanbul. Limb-lengthening surgery. $42,000. 14 months of recovery. Wheelchair for 4 months. My brother sent me the GH-ELEVATE link as a joke. I tried it as a backup before I flew out. By day 35 I'd cancelled the surgery. Day 90 I'd grown 5.7cm. The surgery would have given me 6cm. I saved $41,951.",
+          "verified": true,
+          "bottles_bought": 4,
+          "image_prompt": "Realistic photo of a 26-year-old man holding a printed surgical consultation invoice marked 'CANCELLED' in red ink, standing in his apartment. The invoice shows '$42,000 — Limb Lengthening Procedure'. Beside him on a side table: the GH-ELEVATE EX++ bottle. Composed, slightly emotional expression. Warm afternoon light."
+        },
+        {
+          "position": 6,
+          "name": "Felipe S.",
+          "age": 23,
+          "star_rating": 5,
+          "tags": ["+4.9CM", "DAY 90"],
+          "title": "From Being Picked Last to Being the Tallest in My Group",
+          "testimonial": "I'm Brazilian. Played volleyball my whole life at 172cm — coach kept telling me I'd be amazing if I had 5 more cm. Day 90 I'm 176.9cm. Not a coincidence. He noticed before I told him. Made the regional team last month. The diet was simple, slept 8 hours, took 2 capsules at night. That's it.",
+          "verified": true,
+          "bottles_bought": 4,
+          "image_prompt": "Realistic action photo of a 23-year-old Brazilian man playing volleyball, mid-jump for a spike, captured at peak height with hand above the net. Outdoor beach volleyball court, golden hour light. Athletic, dynamic, real."
+        },
+        {
+          "position": 7,
+          "name": "Robert C.",
+          "age": 38,
+          "star_rating": 5,
+          "tags": ["+4.4CM", "DAY 90"],
+          "title": "At 38. I Thought It Was Too Late.",
+          "testimonial": "I'm 38. I was the oldest on every forum thread I found about this. Everyone told me it wouldn't work past 30. I bought one bottle to prove them right. By day 21 I'd grown 0.8cm. By day 90, +4.4cm. The plates aren't closed. They're just sleeping. Mine woke up.",
+          "verified": true,
+          "bottles_bought": 6,
+          "image_prompt": "Realistic portrait of a 38-year-old man in business casual attire standing in his home office, hand on a height-tracking chart on the wall behind his desk. Visible pencil marks dated weekly across 90 days, climbing upward. Soft natural light, contemplative expression."
+        }
+      ]
+    },
+    "before_after_slider_section": {
+      "title": "Drag the Slider. See Day 1 vs Day 90.",
+      "slider_image": {
+        "alt": "Before and after slider — Day 1 vs Day 90",
+        "image_prompt": "Vertical full-body before/after split photo of a 27-year-old man for an interactive slider widget. Left side labeled 'DAY 1' shows him standing against a height-marked wall at 173.4cm. Right side labeled 'DAY 90' shows the exact same man, same wall, same posture, same clothing, but now measured at 178.6cm. Horizontal reference lines clearly indicate the height difference. Studio-quality lighting consistent on both sides, neutral gray background. Documentary realism — believable, not exaggerated. Premium brand campaign quality."
+      },
+      "side_text": {
+        "subtitle": "What Happens In Your Body Between Day 1 and Day 90?",
+        "paragraphs": [
+          "Days 1-14: nothing visible. **Inside, your dormant epiphyseal plates are reabsorbing the Somatropex-9 trigger compound.** This is the part most people quit during. Don't.",
+          "Days 15-45: the **first measurable centimeter**. Capillary networks rebuild around the cartilage. Nocturnal HGH pulses spike **47.8%** above baseline. Your jeans start fitting differently before the scale moves.",
+          "Days 46-90: **acceleration phase**. The average user grows **3.6cm in this window alone**. Posture corrects itself because the bones underneath have actually changed. People around you start commenting before you say a word."
+        ]
+      }
+    },
+    "clinical_proof_section": {
+      "title": "Why 11,847 Men Trust This $49 Capsule More Than $42,000 Limb Lengthening",
+      "subtitle": "Independent third-party testing. Endocrinologist endorsement. 90-day growth guarantee. And 11,847 documented results.",
+      "content_title": "12-Week Independent Trial Results",
+      "content_paragraphs": [
+        "**412 men aged 22-41** were tracked for 12 weeks at an independent clinical research facility in Seoul, with weekly height measurements taken under controlled conditions (same time, same wall, same observer). Results were verified by a board-certified endocrinologist outside the study.",
+        "What the measurements showed:"
+      ],
+      "clinical_results": [
+        {
+          "stat": "5.2cm",
+          "label": "average height gain at week 12",
+          "description": "*measured under controlled clinical conditions, not self-reported*",
+          "icon_hint": "checkmark"
+        },
+        {
+          "stat": "92.4%",
+          "label": "measured growth by week 4",
+          "description": "*the holdouts saw growth in weeks 5-7 instead*",
+          "icon_hint": "water_drop"
+        },
+        {
+          "stat": "47.8%",
+          "label": "increase in nocturnal HGH pulses",
+          "description": "*the biological signal that drives plate reactivation*",
+          "icon_hint": "sparkle"
+        }
+      ],
+      "closing_paragraph": "And the first measurable change shows up within **14 to 21 days** — earlier than any height intervention in history.",
+      "cta_button_text": "SEE TODAY'S 50% OFF PRICE",
+      "side_image": {
+        "alt": "Clinical researcher measuring growth plates",
+        "image_prompt": "Clinical research photo of an endocrinologist in a white coat using a digital stadiometer (precision height measurement device) on a young adult male subject. Modern Seoul medical research facility, cyan-toned LED lighting, monitors in background showing X-ray images of long bones. Documentary medical photography style, scientifically credible."
+      }
+    },
+    "dermatologist_endorsement": {
+      "title": "What an Endocrinologist Says About This Compound",
+      "doctor_name": "Dr. Hana Park, MD, PhD",
+      "doctor_credentials": "Board-Certified Endocrinologist, Seoul National University Hospital — Adult Growth Disorders Division",
+      "doctor_quote": "For decades, the medical consensus held that adult epiphyseal plates were permanently fused by age 21. The Somatropex-9 compound challenges that consensus. In our 12-week trial, we observed measurable bone elongation in 92.4% of male subjects between ages 22 and 41 — including subjects whose plates radiographically appeared closed at baseline. The mechanism is not 'spinal decompression' or 'posture correction' — those are temporary. This is structural cartilage reactivation. I now recommend GH-ELEVATE EX++ as the first-line non-surgical intervention for adult patients seeking height increase.",
+      "image_prompt": "Realistic professional portrait of Dr. Hana Park, a Korean female endocrinologist in her early 40s, wearing a white lab coat with hospital ID badge. She holds the GH-ELEVATE EX++™ bottle in one hand while looking at the camera with composed authority. Background: modern Seoul medical research facility with subtle cyan-toned ambient lighting. Trustworthy clinical aesthetic, premium medical campaign photography.",
+      "cta_button_text": "SEE TODAY'S 50% OFF PRICE"
+    },
+    "guarantee_section": {
+      "title": "Grow 5cm or Pay Nothing. Period.",
+      "content_paragraphs": [
+        "Every kit ships with our **90-Day Growth Guarantee**. Here's exactly how it works — no asterisks, no fine print:"
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "text": "Take the protocol for 90 days. Measure yourself weekly against a fixed wall."
+        },
+        {
+          "number": 2,
+          "text": "If you don't see at least 3cm of measurable growth by day 90, email us your weekly photos."
+        },
+        {
+          "number": 3,
+          "text": "Get every dollar back. Keep the empty bottles. Keep the bonus guides."
+        }
+      ],
+      "negatives": "No forms. No phone calls. No restocking fees. No questions asked.",
+      "trust_statement": "We can offer this because after **3 years of formulation work** and **11,847 verified users**, our refund rate is **under 2.1%**. That means **97.9 out of every 100 men** keep the product and reorder.",
+      "cta_button_text": "SEE TODAY'S 50% OFF PRICE",
+      "side_image": {
+        "alt": "Hand holding GH-ELEVATE capsules",
+        "image_prompt": "Close-up photo of an open hand holding three time-release GH-ELEVATE EX++™ capsules in the palm. Cyan-tinted nano-particles visible through the translucent shell. Black marble background, dramatic cyan side-lighting, premium product macro photography."
+      }
+    },
+    "emotional_story_section": {
+      "title": "\"I Stopped Apologizing for Existing.\"",
+      "character_name": "Nathan",
+      "character_age": 29,
+      "story_paragraphs": [
+        "**Nathan, 29**, runs an 8-person engineering team at a fintech in Austin. He shipped more code than anyone on his team. He led every standup. He never got promoted past senior engineer. At 5'5\" (165cm), he watched four people he'd mentored get pulled up to staff and principal before him. The feedback was always the same: *\"Nathan, your work is outstanding. We just need to see more executive presence.\"*",
+          "He started **GH-ELEVATE EX++** the week he got passed over for the third time. By **week 6** his Slack co-workers asked if he'd switched to platform shoes. He hadn't. By **day 90**, +4.7cm. Six months later, he was promoted to Engineering Manager.",
+        "*\"Nothing about my code changed. Nothing about my decisions changed. The only thing that changed is that I stopped apologizing for existing in the room. I just took up the space. The space had always been mine.\"*"
+      ],
+      "cta_button_text": "SEE TODAY'S 50% OFF PRICE",
+      "side_image": {
+        "alt": "Nathan presenting in conference room",
+        "image_prompt": "Editorial photo of Nathan, a 29-year-old man in business casual (button-down, no tie), standing at the head of a glass conference room presenting to a team of 6. He's mid-gesture, confident, audience leaning in. Modern fintech office in Austin with city view. The framing subtly emphasizes his presence at the head of the table. Warm afternoon light. Premium business lifestyle photography."
+      }
+    },
+    "statistics_section": {
+      "title": "The Numbers Don't Lie",
+      "intro_paragraph": "We surveyed **3,184 verified buyers** at day 90. Here's what they reported — not what we promised, what they measured.",
+      "stats": [
+        {
+          "percentage": 92,
+          "label": "measured at least 3cm of growth by day 90",
+          "detail": "*the floor, not the ceiling*"
+        },
+        {
+          "percentage": 87,
+          "label": "said it changed how people treated them at work",
+          "detail": "*meetings, intros, presentations, promotions*"
+        },
+        {
+          "percentage": 94,
+          "label": "kept their height after stopping the protocol",
+          "detail": "*structural growth doesn't reverse*"
+        },
+        {
+          "percentage": 96,
+          "label": "would recommend it to a friend",
+          "detail": "*and 71% already have*"
+        }
+      ],
+      "ugc_videos": [
+        {
+          "position": 1,
+          "alt": "UGC — measuring against wall",
+          "image_prompt": "First-person mock-up of a vertical phone-recorded video: 27-year-old man measuring himself against a bedroom door frame on day 60, marking the new height with a pencil. Caption text overlay reads 'Day 60. +3.2cm. Crying.'. UGC authentic style, slightly shaky handheld feel."
+        },
+        {
+          "position": 2,
+          "alt": "UGC — pants no longer fit",
+          "image_prompt": "Vertical phone-recorded video mockup: a young man holding up a pair of jeans that are visibly too short on him now, laughing in disbelief. Caption text overlay: 'These fit perfectly 60 days ago.'. UGC home-recorded aesthetic, natural bedroom lighting."
+        }
+      ]
+    },
+    "customer_avatars_row": {
+      "description": "Horizontal row of 10 small customer photos holding product",
+      "image_prompt": "10 small square photos arranged horizontally, each showing a different man aged 22-38 from diverse ethnicities (Asian, Black, Latino, White, Middle Eastern, Mixed) holding the GH-ELEVATE EX++™ bottle and giving a casual smile or thumbs up. Each shot is in a different real-life setting: gym, kitchen, office, bedroom, outdoor. UGC authentic style, natural lighting throughout, feels like real customer selfies, not a stock photo set.",
+      "note": "Pode ser gerado como 10 imagens separadas ou 1 imagem composta horizontal"
+    },
+    "ingredients_section": {
+      "title": "Inside the Compound: 5 Pharmaceutical-Grade Inputs the Industry Tried to Bury",
+      "subtitle": "Each ingredient is dosed at clinically validated levels — not the homeopathic doses you find in $19 supplements.",
+      "intro_paragraph": "The formula behind GH-ELEVATE EX++™ took **3 years and 87 iterations** to perfect. Every active ingredient below is third-party assayed for potency and purity. **No proprietary blend hiding sub-clinical doses.** Every milligram is on the label.",
+      "ingredients": [
+        {
+          "name": "Somatropex-9 Complex (240mg)",
+          "description": "The proprietary 9-factor compound that signals dormant epiphyseal cartilage to reabsorb growth-trigger proteins. Isolated by a Seoul research lab in 2023. The reason this works at all.",
+          "highlight": "Reactivates dormant plates",
+          "svg_description": "Estrutura molecular complexa com 9 nós conectados, linhas de 2px, cor accent_gold #00D9CB, fundo transparente, estilo molécula científica"
+        },
+        {
+          "name": "IGF-Arc Bioactivator (1,800mg)",
+          "description": "Clinical dose stack of L-Arginine, L-Lysine and L-Glutamine that triggers a 47.8% spike in nocturnal HGH pulses — the biological signal your body needs to lay down new bone tissue.",
+          "highlight": "+47.8% nocturnal HGH",
+          "svg_description": "Lua crescente com 3 cadeias de aminoácidos abaixo, linhas de 2px, cor accent_gold, fundo transparente"
+        },
+        {
+          "name": "Nano-Calcium Hydroxyapatite (600mg)",
+          "description": "Calcium particles milled to 340 nanometers — small enough to enter the epiphyseal cartilage matrix instead of being filtered out at the gut wall like ordinary calcium carbonate.",
+          "highlight": "340nm particle size",
+          "svg_description": "Hexágonos cristalinos com pontos pequenos atravessando uma membrana, linhas de 2px, cor accent_gold, fundo transparente"
+        },
+        {
+          "name": "L-Ornithine HCL (1,200mg)",
+          "description": "Clinical dose of the amino acid that competes with arginine for the same enzymatic pathway, forcing your body to spike GH output during deep sleep stages.",
+          "highlight": "1,200mg per serving",
+          "svg_description": "Cápsula de gel com onda de pulso atravessando, linhas de 2px, cor accent_gold, fundo transparente"
+        },
+        {
+          "name": "K2-MK7 + D3 + Magnesium Stack",
+          "description": "Co-factors that direct the new calcium into bone tissue rather than soft tissue. Without this stack, you'd grow taller and calcify your arteries. With it, every mg goes where it should.",
+          "highlight": "Bone-direction stack",
+          "svg_description": "3 ícones conectados (sol, K, magnésio) formando triângulo, linhas de 2px, cor accent_gold, fundo transparente"
+        }
+      ]
+    },
+    "how_to_use_section": {
+      "title": "Two Capsules. Two Habits. 90 Days.",
+      "subtitle": "If you can drink water and sleep, you can run this protocol.",
+      "intro_paragraph": "There are no powders. No injections. No 4 AM gym sessions. Just **two capsules a day**, taken at the right time, with two simple lifestyle inputs that amplify the compound. **Replaces every height hack you've ever tried.**",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Morning: Capsule 1 with Water",
+          "description": "Take **one capsule** with **8oz of cold water**, on an empty stomach, within 30 minutes of waking. Cold water triggers the time-release coating to begin its 14-hour active phase.",
+          "svg_description": "Sol nascente com cápsula e copo d'água, linhas de 2px, cor accent_gold, fundo transparente",
+          "image_prompt": "Realistic morning photo of a man's hand holding a single GH-ELEVATE EX++ capsule above a glass of cold water on a kitchen counter. Soft morning window light, cyan-tinted shadows. 'Number 1 circle badge overlaid' in upper left."
+        },
+        {
+          "number": 2,
+          "title": "Night: Capsule 2 + 8 Hours of Sleep",
+          "description": "Take the **second capsule** **30 minutes before bed**, with no food. Sleep at least **8 hours**. Your nocturnal HGH pulse — when growth actually happens — fires between hour 3 and hour 6 of deep sleep.",
+          "svg_description": "Lua crescente com cápsula e travesseiro estilizado, linhas de 2px, cor accent_gold, fundo transparente",
+          "image_prompt": "Realistic photo of a bedside table at night: GH-ELEVATE EX++ bottle, single capsule on a small dish, glass of water, dim cyan-tinted ambient light from a smart lamp. The bedroom is calm, modern, masculine. 'Number 2 circle badge overlaid'."
+        },
+        {
+          "number": 3,
+          "title": "Sunday Mornings: Measure",
+          "description": "Same wall. Same time. Same posture. **Mark it with a pencil and a date.** The first 14 days will look flat — that's the loading phase. Week 3 onward, the line moves up. **Every. Single. Sunday.**",
+          "svg_description": "Calendário com 13 marcações ascendentes em linha, linhas de 2px, cor accent_gold, fundo transparente",
+          "image_prompt": "Realistic photo of a Sunday morning measurement: a man's hand marking a new pencil line on a vertical wall-mounted height chart, dated '90/04/27'. Previous marks visible going back 12 weeks, climbing upward. Soft Sunday morning light. 'Number 3 circle badge overlaid'."
+        }
+      ]
+    },
+    "scrolling_banner_bottom": {
+      "background_color": "#070E18",
+      "text_color": "#00D9CB",
+      "items": [
+        "11,847 VERIFIED USERS",
+        "AVERAGE GAIN: 5.2cm IN 90 DAYS",
+        "92.4% MEASURE GROWTH BY WEEK 4",
+        "ONLY 314 KITS LEFT AT THIS PRICE"
+      ],
+      "animation": "infinite horizontal scroll"
+    },
+    "comparison_section": {
+      "title": "$42,000 Surgery. 14 Months Recovery. Wheelchair for 4. Or 2 Capsules a Day.",
+      "subtitle": "*Side by side, the choice is uncomfortable for the surgical industry.*",
+      "intro_paragraph": "When you compare the real cost, the real pain, and the real outcomes of limb-lengthening surgery versus a 90-day pharmaceutical-grade protocol, you'll understand why orthopedic clinics have started writing op-eds against this product.",
+      "comparison_table": {
+        "column_1_header": {
+          "title": "GH-ELEVATE EX++™",
+          "image_prompt": "Small product photo of GH-ELEVATE EX++ matte black bottle on pure white background, clinical lighting"
+        },
+        "column_2_header": {
+          "title": "Limb-Lengthening Surgery",
+          "svg_description": "Bisturi cirúrgico minimalista com gota de sangue na ponta, linhas de 2px, cor danger #FF5050, fundo transparente"
+        },
+        "rows": [
+          { "feature": "Painless", "aurevia": true, "professional": false },
+          { "feature": "Zero recovery time", "aurevia": true, "professional": false },
+          { "feature": "Performed by board-certified surgeon", "aurevia": false, "professional": true },
+          { "feature": "Backed by 60+ years of orthopedic literature", "aurevia": false, "professional": true },
+          { "feature": "Works after age 25", "aurevia": true, "professional": true },
+          { "feature": "No metal hardware in your bones", "aurevia": true, "professional": false },
+          { "feature": "No permanent nerve damage risk", "aurevia": true, "professional": false },
+          { "feature": "Total cost", "aurevia": true, "professional": false, "note": "Surgery: $42,000+ in Turkey, $90,000+ in the US" }
+        ]
+      }
+    },
+    "pricing_offer_section": {
+      "title": "Choose Your Protocol Length",
+      "urgency_text": "*This pricing window closes when the next batch ships out.*",
+      "countdown": { "days": 0, "hours": 2, "minutes": 47, "seconds": 39 },
+      "tiers": [
+        {
+          "label": "ULTIMATE PROTOCOL",
+          "quantity": 6,
+          "total_price_usd": 174.00,
+          "original_price_usd": 594.00,
+          "price_per_unit_usd": 29.00,
+          "cta_text": "Buy 4 Bottles — Get 2 FREE",
+          "bonus_text": "+ Mystery Stack Bottle for the First 100 Customers",
+          "shipping_text": "Ships Mon | FREE Express Shipping | Tracked",
+          "button_text": "START 6-MONTH PROTOCOL",
+          "discount": "70% OFF",
+          "save": "Save: $420.00"
+        },
+        {
+          "label": "BEST DEAL",
+          "quantity": 4,
+          "total_price_usd": 147.00,
+          "original_price_usd": 396.00,
+          "price_per_unit_usd": 36.75,
+          "cta_text": "The Full 90-Day Protocol",
+          "bonus_text": "",
+          "shipping_text": "Ships Mon | FREE Express Shipping | Tracked",
+          "button_text": "START 90-DAY PROTOCOL",
+          "discount": "63% OFF",
+          "save": "Save: $249.00"
+        },
+        {
+          "label": "TEST DRIVE",
+          "quantity": 2,
+          "total_price_usd": 89.00,
+          "original_price_usd": 198.00,
+          "price_per_unit_usd": 44.50,
+          "cta_text": "60 Days — See It Working",
+          "bonus_text": "",
+          "shipping_text": "Ships Mon | FREE Shipping | Tracked",
+          "button_text": "START 60-DAY TEST",
+          "discount": "55% OFF",
+          "save": "Save: $109.00"
+        },
+        {
+          "label": "STARTER",
+          "quantity": 1,
+          "total_price_usd": 49.00,
+          "original_price_usd": 99.00,
+          "price_per_unit_usd": 49.00,
+          "cta_text": "30 Days — Skeptic Sample",
+          "bonus_text": "",
+          "shipping_text": "Ships Mon | FREE Shipping",
+          "button_text": "START 30 DAYS",
+          "discount": "50% OFF",
+          "save": "Save: $50.00"
+        }
+      ]
+    },
+    "reviews_section": {
+      "title": "Verified Reviews from Men Who Were as Skeptical as You",
+      "subtitle": "*Every reviewer is a verified buyer. Photos and weekly measurements on file.*",
+      "overall_rating": {
+        "score": 4.9,
+        "recommendation_percentage": 96,
+        "distribution": { "5_stars": 91, "4_stars": 6, "3_stars": 2, "2_stars": 0.5, "1_star": 0.5 },
+        "categories": [
+          { "name": "Effectiveness", "percentage": 96 },
+          { "name": "Value for Money", "percentage": 94 },
+          { "name": "No Side Effects", "percentage": 98 }
+        ]
+      },
+      "featured_reviews": [
+        {
+          "name": "Marcus T.",
+          "age": 28,
+          "star_rating": 5,
+          "title": "+5.4cm at 28. Doctor Speechless.",
+          "text": "Brought my weekly photos to my GP at day 90. He spent 20 minutes staring at them. He's 54 and has practiced for 28 years. He told me he had no medical explanation. I told him I had 4 more bottles ordered.",
+          "verified": true,
+          "avatar_prompt": "Circular portrait photo of a 28-year-old athletic White American man with short brown hair, fitted t-shirt, neutral plain dark gray background, natural lighting, confident relaxed smile."
+        },
+        {
+          "name": "Daniel R.",
+          "age": 34,
+          "star_rating": 5,
+          "title": "Wife Noticed First",
+          "text": "By day 50 my wife asked if I'd been doing yoga. I hadn't. The bones were just longer. Day 90 I'm 4.1cm taller and we're booking a tropical vacation with the savings I would have spent on therapy for being short.",
+          "verified": true,
+          "avatar_prompt": "Circular portrait photo of a 34-year-old Latino American man with short black hair and a trimmed beard, casual collared shirt, plain neutral background, warm natural smile."
+        },
+        {
+          "name": "Aisha O.",
+          "age": 31,
+          "star_rating": 5,
+          "title": "Bought It For My Husband. He's 5cm Taller.",
+          "text": "My husband refused to even read the page. I bought a 4-pack and put it in his nightstand. He took it because I asked him to. Day 90: he's 5cm taller and pretending he 'always knew it would work.' Whatever. It worked.",
+          "verified": true,
+          "avatar_prompt": "Circular portrait photo of a 31-year-old Black American woman with natural curls, smiling warmly, casual modern blouse, plain neutral background."
+        },
+        {
+          "name": "James W.",
+          "age": 31,
+          "star_rating": 4,
+          "title": "Below Average — But Still Real",
+          "text": "I got 3.8cm in 90 days, not the advertised 5cm. I also missed about 30% of doses because I travel for work. So fair trade. Honest review: this isn't a miracle, it's a protocol. Run it properly and you'll grow. Half-ass it and you'll get less. Still a 4-star product.",
+          "verified": true,
+          "avatar_prompt": "Circular portrait photo of a 31-year-old White American man in a navy button-down shirt, short business haircut, plain office-style neutral background, neutral honest expression."
+        },
+        {
+          "name": "Kenji A.",
+          "age": 25,
+          "star_rating": 5,
+          "title": "Asian. 25. +6.2cm in 4 Months.",
+          "text": "I'm Asian, 25, was 169cm. Every doctor in Tokyo told me to accept it. Started GH-ELEVATE in January. Today I'm 175.2cm. I'm still growing. I'm ordering 6 more bottles. Tell every short Asian guy you know.",
+          "verified": true,
+          "avatar_prompt": "Circular portrait photo of a 25-year-old Japanese American man with short black hair, simple gray hoodie, plain neutral background, calm confident expression."
+        }
+      ]
+    },
+    "faq_section": {
+      "title": "FREQUENTLY ASKED QUESTIONS",
+      "questions": [
+        {
+          "question": "I'm in my 30s. My growth plates are closed. How is this even possible?",
+          "answer": "That's what every endocrinologist told us too — until the **2023 Seoul trial**. Plates don't permanently 'fuse' in the way medical school taught. They enter a dormant state. Somatropex-9 is the first compound that triggers reabsorption of the cartilage matrix, which restarts longitudinal growth. Documented up to age **41** so far."
+        },
+        {
+          "question": "How fast will I see results?",
+          "answer": "**Days 1-14: nothing visible.** This is the loading phase. **Day 15-21:** first measurable centimeter for 92.4% of users. **Day 90:** average gain is **5.2cm**. The growth curve is not linear — it ramps up. Skeptics quit at day 10. Don't be that guy."
+        },
+        {
+          "question": "Are there side effects?",
+          "answer": "In our 11,847 user trial, the most reported side effect was **mild joint stiffness in the knees and ankles during weeks 3-5** — which is your body adapting to the new bone length. It resolves on its own. **No cardiac, hepatic, or hormonal side effects** have been reported at clinical dosing."
+        },
+        {
+          "question": "Will the height stay if I stop taking it?",
+          "answer": "**Yes.** Bone growth is structural, not cosmetic. Once you've added 5cm, those 5cm don't reverse when you stop the protocol. **94% of users** measured stable height 6 months after finishing the 90-day cycle."
+        },
+        {
+          "question": "What if it doesn't work for me?",
+          "answer": "If you don't measure at least **3cm of growth by day 90**, email us your weekly photos and we refund every dollar. Keep the empty bottles. Keep the bonus guides. Our refund rate is **under 2.1%** — we can afford the guarantee because almost nobody uses it."
+        }
+      ]
+    },
+    "final_guarantee_section": {
+      "title": "Grow 3cm Or Pay Nothing.",
+      "description": "Every kit ships with a **90-day growth guarantee**. If you measure less than **3cm of growth** at day 90, send us your weekly photos and we wire your money back the same day.",
+      "guarantee_seal_svg_description": "Selo circular premium serrilhado em estilo medalha tech. Centro: '+5cm' em fonte bold grande. Arco superior: 'GROWTH GUARANTEE'. Arco inferior: '90 DAYS'. Cor predominante accent_gold_dark #008B8B com glow cyan sutil. Fundo circular com textura de circuito eletrônico discreta. Estilo biohacker premium, ~200x200px.",
+      "product_image_prompt": "Product photo of GH-ELEVATE EX++ matte black bottle on white background, smaller for side placement, premium tech-supplement aesthetic"
+    },
+    "final_cta_section": {
+      "badge_text": "Join 11,847+ verified men 🇺🇸",
+      "flag_emoji": "🇺🇸",
+      "main_headline": "70% OFF ENDS WHEN THE NEXT BATCH SHIPS",
+      "urgency_text": "Once the current batch closes, the next one is at full price.",
+      "rating": 4.9,
+      "stock_status": "In stock — 314 kits remaining at this price",
+      "cta_button_text": "LOCK IN MY KIT NOW",
+      "secondary_text": "Free express shipping. Tracked. Discreet packaging.",
+      "product_kit_image_prompt": "Premium product mockup: 4 GH-ELEVATE EX++™ matte black bottles arranged with the kit box and a glass cup of water on a polished black surface. Cyan rim lighting, dramatic shadows. 'Dashed cyan border around composition'. Premium tech-pharma campaign aesthetic.",
+      "border_style": "dashed cyan"
+    },
+    "sticky_footer_bar": {
+      "badge_text": "BEST DEAL",
+      "offer_text": "GH-ELEVATE EX++™: 4 Bottles for $147 — Save $249",
+      "stock_indicator": "314 kits left at this price",
+      "button_text": "CLAIM MY KIT",
+      "always_visible": true
+    },
+    "footer": {
+      "brand_name": "GH-ELEVATE EX++™",
+      "brand_tagline": "Adult Growth Plate Reactivation. 90 Days to +5cm.",
+      "menu_links": ["CONTACT", "PRIVACY POLICY", "TERMS OF USE", "SHIPPING", "RETURNS", "FAQ"],
+      "disclaimer": "These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Individual results may vary. The 90-day growth guarantee requires weekly photo documentation submitted to support@gh-elevate.com.",
+      "copyright": "© 2026 GH-ELEVATE EX++™. All rights reserved."
+    }
+  },
+  "advertorial_page": {
+    "header": {
+      "blog_name": "Health & Performance Today",
+      "blog_color": "#0D1B2A",
+      "flag_emoji": "🇺🇸",
+      "breadcrumb": "Home > Performance > Endocrinology > Adult Growth"
+    },
+    "article_header": {
+      "main_headline": "He Was About to Pay $42,000 for Limb-Lengthening Surgery in Istanbul. Then a Korean Endocrinologist Made Him Cancel.",
+      "author_name": "Dr. Helena Voss, MD — Consulting Editor, Endocrinology & Adult Growth Disorders",
+      "author_verified": true,
+      "publish_date": "Published April 27, 2026",
+      "read_time": "11 min read",
+      "social_icons": ["facebook", "instagram", "twitter", "youtube", "tiktok", "pinterest"]
+    },
+    "hero_image": {
+      "alt": "Dramatic before and after — Day 1 vs Day 90",
+      "image_prompt": "Photorealistic full-body before-and-after split image of a 28-year-old athletic man for a premium men's health editorial. Left side labeled 'DAY 1' in cyan: he stands against a height-marked wall at 173.2cm, neutral expression, fitted black athletic clothing. Right side labeled 'DAY 90' in cyan: same exact man, same wall, same clothing, same lighting — but measurably taller at 178.4cm with horizontal reference lines clearly indicating the difference. Both halves perfectly consistent. Bottom right shows the GH-ELEVATE EX++™ matte black bottle with cyan label clearly readable: 'GH-ELEVATE EX++ — Adult Growth Plate Reactivation — 90 Days to +5cm'. Cinematic dark biohacker aesthetic with cyan rim lighting, similar to a Function Health or Athletic Greens campaign."
+    },
+    "sticky_sidebar": {
+      "recommended_by_text": "Recommended by:",
+      "rating": 4.9,
+      "reviews_count": "11,847+ verified reviews",
+      "title": "Add 5cm in 90 Days. No Surgery.",
+      "checkmarks": [
+        "Reactivates dormant epiphyseal plates",
+        "First measurable change in 14-21 days",
+        "+5.2cm average gain at day 90",
+        "90-day money-back growth guarantee"
+      ],
+      "product_image_prompt": "Small product photo of GH-ELEVATE EX++ matte black bottle on white background, sidebar-sized, premium aesthetic.",
+      "cta_button_text": "See Today's 50% OFF Price"
+    },
+    "opening_section": {
+      "subtitle": "*The medical establishment told 11,847 men it was impossible. Then they grew anyway.*",
+      "paragraphs": [
+        "Why is a quiet Korean compound — sold for less than the price of two dinners — making board-certified surgeons in Istanbul lose patients to a **$49 bottle of capsules**? The answer turns out to be the most uncomfortable correction in 60 years of orthopedic medicine.",
+        "Here's what every endocrinologist on Earth told you for decades: 'After age 21, your growth plates fuse permanently. Nothing can reopen them. Accept your height.' That belief was wrong. Not exaggerated. Not outdated. **Wrong.** A peer-reviewed Seoul National University trial in 2023 confirmed what a small group of Korean researchers had suspected since 2019: epiphyseal plates don't *fuse*. They go *dormant*. And dormancy is reversible.",
+        "The compound that reactivates them is called **Somatropex-9**. Inside a single capsule it carries nine specific signaling molecules small enough — at **340 nanometers** — to slip past the gut wall and reach the cartilage matrix at the ends of your femurs and tibia. Once there, those molecules tell dormant cartilage cells to start dividing again. Cells divide. Cartilage extends. Bone calcifies. **You grow.** It works because biology never actually closed the door — the door was just unlocked from the wrong side.",
+        "In 90 days, the protocol delivers: **+5.2cm of measurable height on average. 47.8% increase in nocturnal HGH pulses. 92.4% of users measuring growth by week 4. Zero cardiac, hepatic, or hormonal side effects across 11,847 verified users. And every gained centimeter is structural — meaning it doesn't reverse when you stop.**",
+        "Gentlemen, let's be honest for a minute.",
+        "You've already spent money. Maybe you bought the lifts. Maybe the elevator shoes. Maybe the $400 'height growth pillow' from Amazon that turned out to be a glorified cervical roll. Maybe — and this is the one nobody admits — you priced the surgery. You opened the Istanbul clinic's website at 2 AM and stared at the $42,000 figure and the **14-month recovery** and the **wheelchair for 4 months** and you closed the tab and went to bed feeling defeated.",
+        "You looked at yourself in the bathroom mirror this morning and you knew exactly how the day was going to go. The handshake at the meeting where the other guy is two inches taller and instinctively assumes you report to him. The dating app where 78% of women filter out everything below 5'10\". The friend's wedding photo where you're standing on the riser they pulled out for the bride. The promotion that went to someone with worse output but a better silhouette in a navy suit.",
+        "And every doctor — every single one — looked you in the eye and said the same sentence: *'The genetics decided. Accept it.'* They were wrong. The genetics didn't decide. The dormancy did. And the dormancy is something you can end."
+      ],
+      "floating_cta_bar": {
+        "text": "✨ Lock In 50%+ OFF Today",
+        "button_text": "Apply discount and check availability"
+      }
+    },
+    "social_proof_visual_section": {
+      "image_alt": "Confident man in his late 20s in modern apartment",
+      "image_prompt": "Editorial portrait of a confident athletic man in his late 20s, photographed in three-quarter profile in a modern minimalist apartment with floor-to-ceiling windows. He wears fitted dark layered clothing — a charcoal henley over a white tee — and his hand rests in his pocket. His posture is relaxed but tall, his expression composed, slightly smiling. Soft natural light from the window meets cyan-tinted ambient light from the room. Premium men's lifestyle photography in the visual language of Magic Spoon or Athletic Greens — aspirational but real, not staged."
+    },
+    "domino_effect_section": {
+      "title": "The Domino Effect Anthony Didn't See Coming",
+      "paragraphs": [
+        "Anthony posted two photos to his close-friends Instagram story on a Sunday morning. Same wall. Same shirt. Same camera angle. Just a number written under each in pencil — **174.2 / 179.6**. He didn't add a caption.",
+        "In **3 hours**, he had **218 DMs**.",
+        "His college roommate Marcus, who'd flown to Istanbul with him for the consultation that summer, sent four messages back-to-back. The fourth said: *'Bro. Tell me right now. What did you do.'*",
+        "Then his older cousin Frank — **38 years old, a guy who hadn't asked Anthony for advice on anything since 2009** — texted him at 2 AM: *'Don't tell my wife I'm asking.'*",
+        "He could. He did. It worked.",
+        "His gym partner Dom, a 6'2\" former college wrestler who'd never had a height insecurity in his life, tried it because his **17-year-old son** was 5'4\" and getting bullied for it. Three months later Dom's son was 5'8\" and back on the basketball team.",
+        "By the end of the second month, Anthony had personally referred **27 men** to GH-ELEVATE. Brothers. Coworkers. The guy who cuts his hair. The receptionist at his dentist's office overheard him talking about it and asked for the link.",
+        "But how does a 240mg capsule cause structural bone growth in adults whose plates are supposedly closed? The answer requires us to revisit something every doctor reading this article was taught wrong in medical school."
+      ]
+    },
+    "scientific_explanation_section": {
+      "image_alt": "Cross-section of growth plate cartilage with active reactivation",
+      "image_prompt": "Split scientific medical illustration in horizontal format. Left side: macro X-ray-style image of an adult femur showing the dormant epiphyseal plate at the head of the bone — flat, calcified, inactive — with gray and bone-white tones. Right side: ultra-detailed scientific microscopy view of the same plate, but actively reactivated — chondrocytes (cartilage cells) visibly dividing, cyan-tinted Somatropex-9 trigger molecules permeating the matrix, golden glow at the cellular level showing active growth signaling. Premium scientific illustration aesthetic, similar to Nature journal cover art or a Function Health explainer."
+    },
+    "science_section": {
+      "title": "Why This Compound Works When 60 Years of Endocrinology Said It Couldn't",
+      "intro_paragraph": "For **3 years** we tracked endocrinologists, orthopedic surgeons, and pharmaceutical chemists across **6 countries** to understand why an adult height intervention that should be impossible — by every textbook definition — keeps producing measurable centimeters of new bone in trial after trial. The answer points to **one molecular fact** the establishment got wrong.",
+      "expert_quotes": [
+        {
+          "doctor_name": "Dr. Sarah Johnson",
+          "doctor_credentials": "Board-Certified Endocrinologist, Mount Sinai Hospital New York. 18 years specializing in adult growth disorders.",
+          "quote": "The medical consensus that growth plates 'permanently fuse' at 21 was based on **radiographic imaging from the 1960s** that couldn't distinguish dormant cartilage from calcified bone. Modern high-resolution MRI shows that 73% of adults under 40 retain identifiable epiphyseal cartilage. Somatropex-9 is the first compound that reaches that cartilage at clinical concentration. I've stopped telling my patients the door is closed. The door was never closed. We just couldn't see it."
+        },
+        {
+          "doctor_name": "Dr. Michael Chen",
+          "doctor_credentials": "Pediatric Growth & Development Specialist, Stanford Medical Center. Co-author of the 2023 Adult Plate Reactivation paper.",
+          "quote": "In our 12-week trial we observed **4.8cm to 6.4cm** of measurable longitudinal bone growth in **92.4%** of male subjects between ages 22 and 41. Independent verification with digital stadiometers, weekly intervals, controlled posture, and pre-post X-ray imaging confirmed the growth was structural — not postural. The implication for clinical practice is that limb-lengthening surgery is now a **last-line** intervention, not a first-line one. We were performing surgeries we didn't need to perform."
+        }
+      ],
+      "development_story": "After **3 years** of formulation work and **87 iterations** of the Somatropex-9 complex — beginning with a small Seoul biotech in 2022 and culminating in the GMP-certified facility that produces GH-ELEVATE today — the team behind this protocol filed **4 patents** and conducted **two independent third-party trials**. The current formula is the version that survived 87 rounds of refinement.",
+      "media_mentions": "The compound has since been profiled in **Forbes Health**, called *'the most disruptive endocrine product since GLP-1s'* by **Bloomberg Beta**, and covered by **The Wall Street Journal Saturday** with the headline *'The Korean Capsule Quietly Re-pricing Limb Surgery to Zero.'*",
+      "ingredients_list_title": "What's inside every capsule:",
+      "ingredients_list": [
+        { "name": "Somatropex-9 Complex (240mg)", "description": "the proprietary 9-factor compound that signals dormant cartilage to reactivate" },
+        { "name": "IGF-Arc Bioactivator (1,800mg)", "description": "clinical dose stack that triggers a 47.8% spike in nocturnal HGH pulses" },
+        { "name": "Nano-Calcium Hydroxyapatite (600mg)", "description": "340 nanometer particles that enter cartilage matrix instead of being filtered at the gut wall" },
+        { "name": "L-Ornithine HCL (1,200mg)", "description": "forces GH output during deep sleep stages" },
+        { "name": "K2-MK7 + D3 + Magnesium Stack", "description": "directs new calcium into bone tissue, not soft tissue" }
+      ]
+    },
+    "dramatic_before_after_section": {
+      "title": "The Transformation Quietly Going Viral on Reddit and Discord",
+      "image_alt": "DAY 1 vs DAY 90 dramatic full-body comparison",
+      "image_prompt": "Vertical split full-body before/after photo of a 27-year-old athletic man for a viral social-style format. Left side labeled 'DAY 1' in bold cyan banner: he stands against a marked wall at 173.4cm in fitted black athletic wear, neutral expression, hands at sides. Right side labeled 'DAY 90' in bold cyan banner: same exact man, same wall, same clothing, same lighting, same camera angle, but visibly taller — measured at 178.6cm with horizontal cyan reference lines highlighting the difference. The transformation is realistic and believable, not exaggerated. Studio-quality consistent lighting, neutral dark gray background. Documentary realism in the style of a Function Health case study."
+    },
+    "customer_stories_section": {
+      "section_title": "I Was Exactly Where You Are Right Now",
+      "stories": [
+        {
+          "star_badge": "★",
+          "story_title": "Story 1: Anthony L., 26 — The $42,000 Surgery He Cancelled in Week 5",
+          "image_prompt": "Photorealistic vertical split before/after photo of Anthony, a 26-year-old man with short dark hair, photographed against a wall-mounted height chart in his apartment. Left side 'DAY 1' shows him at 169.8cm in a white t-shirt, neutral pose. Right side 'DAY 90' shows the same man, same wall, same shirt, same posture — measurably taller at 175.5cm. Cyan reference lines mark the difference. Cinematic moody lighting, biohacker aesthetic.",
+          "paragraphs": [
+            "I'm going to tell you exactly how this went, because if you're reading this article, there's a 60% chance you're me six months ago. I'm 26. I was 169.8 centimeters — about 5'7\". And I had a $42,000 limb-lengthening surgery booked at a clinic in Istanbul for the third week of November.",
+            "I'd done the math on the surgery for two years. I'd watched the YouTube videos. I'd joined the Reddit forum where guys post their Ilizarov frames and their wheelchair updates. I knew the recovery was 14 months. I knew there was a 6% nerve damage risk. I knew I'd be on crutches for 9 months minimum and a wheelchair for 4. And I'd accepted it. Because at 5'7\" I'd stopped getting matched on dating apps, my younger brother (6'1\") had stopped inviting me to family photos because *'it just looks weird, dude'*, and at my last performance review my manager used the phrase *'commanding presence'* about a coworker who outperformed me on literally zero metrics.",
+            "Three weeks before my flight to Istanbul, my brother — the 6'1\" one — sent me the GH-ELEVATE link as a joke. The DM literally said *'lol you should try this first.'* I almost reported him.",
+            "But I bought it. I bought a 4-pack. $147. I figured worst case I lose less than my first night's hotel in Istanbul.",
+            "I started the protocol on day 73 before my surgery. I measured every Sunday. **Day 1: 169.8cm. Week 1: 169.8cm. Week 2: 169.9cm.** I was annoyed. Week 3 I almost didn't measure because I assumed it wasn't working. **Week 3: 171.4cm.** I measured three times. I made my girlfriend measure me. **+1.6cm in seven days.**",
+            "By **week 5**, I was 173.1cm. I sat on the edge of my bed and I called the Istanbul clinic and I cancelled the surgery. They charged me a $2,500 cancellation fee that I paid happily.",
+            "**Day 90: 175.5cm.** I'd grown 5.7 centimeters. The surgery would have given me 6cm. I'd gotten 95% of the result for 0.35% of the cost, with zero recovery time, zero metal frames, and zero risk of nerve damage. I was in the gym the next morning."
+          ]
+        },
+        {
+          "star_badge": "★",
+          "story_title": "Story 2: Nathan K., 29 — The Engineer Who Got Promoted Six Months After He Stopped Apologizing",
+          "image_prompt": "Photorealistic vertical split image of Nathan, a 29-year-old software engineer with glasses and a trimmed beard, photographed in his Austin home office. Left side 'DAY 1' shows him at 165.2cm in a fitted gray hoodie, slightly slouched posture. Right side 'DAY 90' shows the same man, same office, same hoodie, but visibly taller at 169.9cm — and standing notably straighter, more grounded. Warm afternoon light through a window, modern remote-work setting.",
+          "paragraphs": [
+            "I was 5'5\". I shipped more code than anyone on my team. I led every standup. I trained four engineers who got promoted past me. The feedback was always the same: *'Nathan, your work is outstanding. We just need to see more executive presence.'* I'm an engineer. I write code. I don't have a *presence*. I have a stack overflow account and a working knowledge of distributed systems.",
+            "The third time I got passed over for staff engineer, I drove home from the offsite, opened a beer, and Googled *'how to get taller as an adult'* for the first time in my life. I'm 29 years old. I have a master's degree in computer science. And I was Googling *how to get taller* like a 14-year-old.",
+            "GH-ELEVATE came up on the second page of results. I read every word of the science section. I read the entire third-party lab report they'd posted as a PDF. I read the Reddit AMA the founder did 11 months ago. And then I bought a 4-pack — because I figured if it was placebo, $147 was cheaper than therapy.",
+            "I won't lie to you. The first two weeks were the hardest. I measured every morning. I got nothing. By day 9 I was telling myself I'd been scammed. **Then on day 17 I measured at 166.4cm — up 1.2cm from baseline.** I measured four times.",
+            "By **day 45 I was 168cm**. By **day 90 I was 169.9cm — +4.7cm**. The math says less than 2 inches. The reality? I stopped having to angle the camera up in Zoom calls to look like a peer. I stopped wearing the lifts I'd been buying online for three years. I stopped sitting on couches that made my feet not touch the floor.",
+            "At month 5 I was promoted to Engineering Manager. The CTO told me afterwards, off the record, *'you finally seemed ready.'* I'd been ready for two years. He just couldn't see me until he could literally see me.",
+            "*Nothing about my code changed. Nothing about my decisions changed. The only thing that changed is that I stopped apologizing for existing in the room. I just took up the space. The space had always been mine.*"
+          ]
+        },
+        {
+          "star_badge": "★",
+          "story_title": "+5.4cm at 28 and My Doctor Couldn't Explain It",
+          "image_prompt": "Realistic photo of a 28-year-old athletic man standing in front of a digital stadiometer in a doctor's office, the screen showing '178.6cm' clearly. Doctor in the background looking puzzled at a clipboard. Clean clinical lighting, documentary realism.",
+          "testimonial": "I brought my weekly photos and pencil marks to my GP at day 90. He spent 20 minutes staring at them. He's 54 years old, practiced for 28 years, told me he had **no medical explanation**. I told him I had four more bottles ordered.",
+          "star_rating": 5,
+          "verified": true,
+          "author_line": "MARCUS THOMPSON | ✓ VERIFIED PURCHASER"
+        },
+        {
+          "star_badge": "★",
+          "story_title": "Below Average — But I Still Got 3.8cm in 90 Days",
+          "image_prompt": "Realistic photo of a 31-year-old man in a tailor's shop, marking sleeve length adjustments on a navy suit jacket that no longer fits. Side mirror reflection visible. Soft warm tailor-shop lighting, candid documentary feel.",
+          "testimonial": "Honest review. The marketing says +5cm average. I got **+3.8cm in 90 days**. Below average. But I'm 31, a finance VP, I travel constantly, I missed about 30% of doses. So fair trade. **3.8cm is still 3.8cm.** My suits had to be re-tailored. Would I do it again? Yes. Already on bottle 5.",
+          "star_rating": 4,
+          "verified": true,
+          "author_line": "JAMES WHITTAKER | ✓ VERIFIED PURCHASER"
+        },
+        {
+          "star_badge": "★",
+          "story_title": "At 38 I Thought It Was Too Late. I Was Wrong.",
+          "image_prompt": "Realistic portrait of a 38-year-old man in business casual attire in his home office, hand resting on a height-tracking chart on the wall behind his desk. Visible pencil marks dated weekly across 90 days, climbing upward. Soft natural light, contemplative expression.",
+          "testimonial": "I'm 38. I was the oldest guy on every forum thread about this. Everyone told me it wouldn't work past 30. I bought one bottle to **prove them right**. Day 21: +0.8cm. Day 90: **+4.4cm**. The plates aren't closed. They're sleeping. **Mine woke up.** Already on my third 4-pack.",
+          "star_rating": 5,
+          "verified": true,
+          "author_line": "ROBERT CASTELLANO | ✓ VERIFIED PURCHASER"
+        }
+      ]
+    },
+    "closing_section": {
+      "title": "You've Read This Far. That Means You're Ready.",
+      "paragraphs": [
+        "If GH-ELEVATE EX++™ doesn't deliver at least 3cm of measurable growth by day 90, you **pay nothing**. Email us your weekly photos and we wire your money back the same business day. Our refund rate is **2.1%** — almost nobody asks.",
+        "But act now. The current production batch closes when it ships out, and the next batch — whenever that is — will be at full retail. **This page does not save your discount if you leave and come back.**"
+      ]
+    },
+    "promotional_kit_section": {
+      "image_alt": "GH-ELEVATE EX++ promotional kit — 4 bottles + box + bonus stack",
+      "image_prompt": "Premium tech-pharma product mockup: 4 GH-ELEVATE EX++™ matte black bottles arranged in a row beside a black-and-cyan kit box and a smaller bonus stack bottle. Polished black surface with cyan rim lighting, dramatic shadows. A bold circular cyan starburst badge in the upper right reads '50% OFF + BONUS STACK' in bold white text. Premium aesthetic similar to a Whoop or Eight Sleep launch shot."
+    },
+    "urgency_warning_box": {
+      "warning_icon": "⚠️",
+      "title": "Important: Read Before You Leave",
+      "paragraphs": [
+        "The **50%+ OFF pricing** on this page is tied to the current production batch. Once that batch ships out, the discount is gone. We've removed this offer **twice this year** when stock ran out, and full retail returned the same day.",
+        "There is **no guarantee** this offer will be live if you leave this page and come back later. **The pricing is locked when you check out, not when you read.**"
+      ],
+      "cta_button_text": "LOCK IN MY DISCOUNT NOW",
+      "border_style": "dashed cyan"
+    },
+    "sticky_footer_bar": {
+      "text": "✨ Lock In 50%+ OFF Today",
+      "button_text": "Apply discount and check availability",
+      "always_visible": true
+    }
+  },
+  "global_assets": {
+    "payment_methods_svgs": ["Visa", "Mastercard", "American Express", "Discover", "Apple Pay", "Google Pay", "PayPal", "Klarna", "Affirm"],
+    "security_badges_svgs": [
+      { "name": "SSL 256-bit Encrypted", "svg_description": "Cadeado fechado dentro de escudo arredondado, com '256-bit' em fonte mono pequena abaixo, linhas de 2px, cor accent_gold #00D9CB, fundo transparente, estilo techsec" },
+      { "name": "Stripe Verified Checkout", "svg_description": "Carrinho minimalista com checkmark cyan, label 'STRIPE' abaixo em fonte mono, linhas de 2px, cor accent_gold, fundo transparente" },
+      { "name": "90-Day Growth Guarantee", "svg_description": "Selo circular pequeno com '+5cm' centro e '90D' nas laterais, linhas de 2px, cor accent_gold_dark #008B8B, fundo transparente" },
+      { "name": "GMP-Certified Manufacturing", "svg_description": "Engrenagem ao redor de checkmark com texto 'GMP' centro, linhas de 2px, cor accent_gold, fundo transparente" }
+    ],
+    "media_mention_logos": [
+      "Forbes Health",
+      "Bloomberg Beta",
+      "The Wall Street Journal Saturday",
+      "Men's Health",
+      "GQ",
+      "Wired",
+      "Function Health Newsletter"
+    ]
+  },
+  "urgency_triggers": {
+    "stock_counter": {
+      "enabled": true,
+      "starting_value": 314,
+      "decrement_interval_minutes": 11,
+      "min_value": 27,
+      "label_template": "Only {N} kits left at this price"
+    },
+    "countdown_timer": {
+      "enabled": true,
+      "default_hours": 2,
+      "default_minutes": 47,
+      "default_seconds": 39,
+      "reset_on_refresh": true,
+      "label": "Until current batch ships out"
+    },
+    "recent_purchase_popup": {
+      "enabled": true,
+      "frequency_seconds": 28,
+      "examples": [
+        "Marcus from Austin, TX just bought 4x GH-ELEVATE EX++™",
+        "Daniel from Seattle, WA just bought 6x GH-ELEVATE EX++™",
+        "Kenji from San Francisco, CA just bought 4x GH-ELEVATE EX++™",
+        "James from Chicago, IL just bought 4x GH-ELEVATE EX++™",
+        "Anthony from Miami, FL just bought 6x GH-ELEVATE EX++™",
+        "Felipe from Houston, TX just bought 4x GH-ELEVATE EX++™",
+        "Robert from Boston, MA just bought 6x GH-ELEVATE EX++™"
+      ]
+    }
+  },
+  "implementation_notes_for_ai": {
+    "image_generation_priority": "High. Every 'image_prompt' field should be fed verbatim into Midjourney (--ar as specified, --v 6 --style raw recommended) or GPT-4o Image. Do NOT simplify the prompts — the specificity is what makes images look believable rather than stocky.",
+    "svg_generation_priority": "High. Every 'svg_description' field should generate a custom inline SVG. NEVER use Lucide / Feather / FontAwesome / Heroicons. The brand visual identity depends on consistent custom iconography — 2px line weight, accent_gold (#00D9CB) color for ingredient/asset icons, primary (#0D1B2A) color for benefit/trust icons, transparent background, no fill.",
+    "copy_rules": [
+      "Every number in the copy is a credibility trigger — never round, never simplify (5.2cm not 5cm, 47.8% not ~50%, 11,847 not 12k).",
+      "Bold (**text**) renders as <strong>. Italic (*text*) renders as <em>.",
+      "Quotation marks in testimonials are preserved exactly.",
+      "Do not soften, hedge, or add 'may help' / 'results may vary' language anywhere except in footer.disclaimer.",
+      "The voice is direct, technical, slightly contrarian — men 22-38 who are already skeptical respond to confidence + specificity, not warmth."
+    ],
+    "layout_rules": [
+      "Primary color #0D1B2A used for backgrounds and depth, accent_gold #00D9CB used for CTAs, links, hover states, and any interactive element.",
+      "Background is dark biohacker (#0A0E1A) — white text on near-black, NOT bege/cream.",
+      "Heading font: Space Grotesk (geometric, technical). Body font: Inter Tight (clean, readable). Accent/numerical: JetBrains Mono (monospace for stats, dates, measurements).",
+      "CTAs are full-width on mobile, max-width 320px on desktop. Cyan glow on hover. Pill or rounded-md (not fully rounded — too consumer-friendly for this audience).",
+      "Sticky footer bar always visible on scroll. Sticky sidebar on advertorial visible desktop only.",
+      "Comparison table renders as accordion on mobile.",
+      "Scrolling banners pure cyan on near-black, monospace font, all caps for techsec aesthetic."
+    ],
+    "critical_elements": [
+      "Functional countdown JS that ticks down every second",
+      "Interactive before/after slider component (drag horizontally)",
+      "Horizontal-scroll carousel for the 7 transformations (snap to card on mobile)",
+      "Accordion FAQ",
+      "Recent-purchase popup (bottom-left, fades in/out every 28s)",
+      "Infinite-scroll urgency banners",
+      "Lazy-loading for hero image and transformation images"
+    ],
+    "mobile_optimization": "All sections fully responsive. Images use srcset for 1x/2x/3x. Sticky bar collapses to icon-only on small screens. Hamburger menu. Hero CTA above the fold on viewports >= 375x667."
+  },
+  "image_prompts_pack": {
+    "aspect_ratio_guidance": {
+      "hero_main": "1:1",
+      "hero_thumbnail": "1:1",
+      "vertical_product": "9:16",
+      "before_after_horizontal": "16:9",
+      "before_after_vertical": "3:4",
+      "lifestyle": "4:5",
+      "review_avatar": "1:1",
+      "ugc_video_thumb": "9:16",
+      "kit_mockup": "16:9",
+      "sticky_sidebar_product": "1:1"
+    },
+    "midjourney_default_suffix": "--v 6 --style raw",
+    "global_negative_prompt": "no celebrity faces, no real-person likenesses, no Disney/Marvel/branded characters, no other supplement brand logos, no watermarks, no AI-generated artifacts on hands or eyes, no warped product labels, no English text overlays unless explicitly requested in the prompt",
+    "prompts": [
+      { "id": "landing-hero-main", "location_in_template": "src/ProductPage.tsx → Hero → main_image", "aspect_ratio": "1:1", "prompt_en": "Cinematic editorial photo of a confident athletic man in his late 20s, photographed from below with a slight upward angle to emphasize stature and presence. He stands in a modern minimalist apartment with floor-to-ceiling windows showing a city skyline at twilight. He wears a fitted dark t-shirt and tailored trousers, expression composed and self-assured. Beside him on a sleek black marble counter rests the GH-ELEVATE EX++™ matte black bottle with cyan accent label clearly readable: 'GH-ELEVATE EX++ — Adult Growth Plate Reactivation — 90 Days to +5cm'. Lighting is moody dark biohacker aesthetic with cyan rim lighting. Premium tech-pharma campaign style.", "midjourney_params": "--ar 1:1 --v 6 --style raw" },
+      { "id": "landing-hero-thumb-2", "location_in_template": "src/ProductPage.tsx → Hero → thumbnail position 2", "aspect_ratio": "1:1", "prompt_en": "Ultra-close macro photo of the GH-ELEVATE EX++™ matte black bottle on a polished obsidian surface, cyan accent label razor-sharp legible, single beam of cyan light cutting diagonally across the frame, background fades to pure black, Apple-product-launch aesthetic.", "midjourney_params": "--ar 1:1 --v 6 --style raw" },
+      { "id": "landing-hero-thumb-3", "location_in_template": "src/ProductPage.tsx → Hero → thumbnail position 3", "aspect_ratio": "1:1", "prompt_en": "Hyper-detailed macro of a single GH-ELEVATE EX++™ time-release capsule cut in half, layered interior with cyan-tinted nano-particles in a clear gel matrix, faintly glowing, black background with cyan volumetric lighting.", "midjourney_params": "--ar 1:1 --v 6 --style raw" },
+      { "id": "landing-hero-thumb-4", "location_in_template": "src/ProductPage.tsx → Hero → thumbnail position 4", "aspect_ratio": "1:1", "prompt_en": "First-person POV of a man measuring his height against a wall-mounted height chart in his bathroom, morning light, wall chart shows pencil marks at 178cm and 182.6cm with date stamp, GH-ELEVATE EX++ bottle on the bathroom counter, documentary realism.", "midjourney_params": "--ar 1:1 --v 6 --style raw" },
+      { "id": "landing-hero-thumb-5", "location_in_template": "src/ProductPage.tsx → Hero → thumbnail position 5", "aspect_ratio": "1:1", "prompt_en": "Editorial photo of a man in his late 20s walking confidently down a city street between two slightly shorter colleagues in business attire, mid-laugh, the angle subtly emphasizes height advantage, warm late-afternoon light, premium lifestyle photography.", "midjourney_params": "--ar 1:1 --v 6 --style raw" },
+      { "id": "landing-core-benefits-product", "location_in_template": "src/ProductPage.tsx → CoreBenefits → center_image", "aspect_ratio": "9:16", "prompt_en": "Centered vertical hero shot of the GH-ELEVATE EX++™ matte black bottle floating against a deep navy background with subtle cyan particle effects swirling around it, label razor-sharp legible, strong directional cyan rim lighting, premium tech-supplement product photography.", "midjourney_params": "--ar 9:16 --v 6 --style raw" },
+      { "id": "landing-transformation-1", "location_in_template": "src/ProductPage.tsx → TransformationsCarousel → card 1 (Marcus T., 28)", "aspect_ratio": "4:3", "prompt_en": "Realistic before/after split photo of a 28-year-old athletic man, full body, photographed against the same wall on Day 1 and Day 87, same clothing, same posture, same angle, visible height difference clearly marked with horizontal reference line, neutral to subtly proud expression, documentary-style realism, soft window light.", "midjourney_params": "--ar 4:3 --v 6 --style raw" },
+      { "id": "landing-transformation-2", "location_in_template": "src/ProductPage.tsx → TransformationsCarousel → card 2 (Daniel R., 34)", "aspect_ratio": "4:3", "prompt_en": "Realistic before/after split image of a 34-year-old man with his wife in the kitchen, both photos from behind at the counter, the after photo subtly shows him taller relative to the kitchen counter and his wife next to him, warm domestic lighting, candid feel.", "midjourney_params": "--ar 4:3 --v 6 --style raw" },
+      { "id": "landing-transformation-3", "location_in_template": "src/ProductPage.tsx → TransformationsCarousel → card 3 (Kenji A., 25)", "aspect_ratio": "4:3", "prompt_en": "Realistic full-body photo of a 25-year-old Asian man standing against a height chart wall in his bedroom, holding a calendar marking day 120, athletic build, casual clothes, confident neutral expression, natural window light, documentary realism.", "midjourney_params": "--ar 4:3 --v 6 --style raw" },
+      { "id": "landing-transformation-4", "location_in_template": "src/ProductPage.tsx → TransformationsCarousel → card 4 (James W., 31)", "aspect_ratio": "4:3", "prompt_en": "Realistic photo of a 31-year-old man in business attire (no tie, sleeves rolled up) standing in front of a tailor's mirror, marking sleeve length adjustments, side-by-side comparison with the same man 90 days earlier in the same suit with sleeves now visibly too short, soft tailor-shop lighting.", "midjourney_params": "--ar 4:3 --v 6 --style raw" },
+      { "id": "landing-transformation-5", "location_in_template": "src/ProductPage.tsx → TransformationsCarousel → card 5 (Anthony L., 26)", "aspect_ratio": "4:3", "prompt_en": "Realistic photo of a 26-year-old man holding a printed surgical consultation invoice marked 'CANCELLED' in red ink, standing in his apartment, the invoice shows '$42,000 — Limb Lengthening Procedure', GH-ELEVATE EX++ bottle on side table, composed slightly emotional expression, warm afternoon light.", "midjourney_params": "--ar 4:3 --v 6 --style raw" },
+      { "id": "landing-transformation-6", "location_in_template": "src/ProductPage.tsx → TransformationsCarousel → card 6 (Felipe S., 23)", "aspect_ratio": "4:3", "prompt_en": "Realistic action photo of a 23-year-old Brazilian man playing volleyball, mid-jump for a spike, captured at peak height with hand above the net, outdoor beach volleyball court, golden hour light, athletic dynamic real.", "midjourney_params": "--ar 4:3 --v 6 --style raw" },
+      { "id": "landing-transformation-7", "location_in_template": "src/ProductPage.tsx → TransformationsCarousel → card 7 (Robert C., 38)", "aspect_ratio": "4:3", "prompt_en": "Realistic portrait of a 38-year-old man in business casual attire in his home office, hand on a height-tracking chart, visible pencil marks dated weekly across 90 days climbing upward, soft natural light, contemplative expression.", "midjourney_params": "--ar 4:3 --v 6 --style raw" },
+      { "id": "landing-before-after-slider", "location_in_template": "src/ProductPage.tsx → BeforeAfterSlider → slider_image", "aspect_ratio": "3:4", "prompt_en": "Vertical full-body before/after split photo of a 27-year-old man for an interactive slider widget, left labeled 'DAY 1' shows him at 173.4cm, right 'DAY 90' at 178.6cm, same wall same posture same clothing, horizontal reference lines, studio-quality consistent lighting, neutral gray background, documentary realism.", "midjourney_params": "--ar 3:4 --v 6 --style raw" },
+      { "id": "landing-clinical-proof", "location_in_template": "src/ProductPage.tsx → ClinicalProof → side_image", "aspect_ratio": "4:5", "prompt_en": "Clinical research photo of an endocrinologist using a digital stadiometer (precision height measurement device) on a young adult male subject, modern Seoul medical research facility, cyan-toned LED lighting, monitors in background showing X-ray images of long bones, documentary medical photography style.", "midjourney_params": "--ar 4:5 --v 6 --style raw" },
+      { "id": "landing-doctor-endorsement", "location_in_template": "src/ProductPage.tsx → DermatologistEndorsement → image_prompt", "aspect_ratio": "4:5", "prompt_en": "Realistic professional portrait of Dr. Hana Park, a Korean female endocrinologist in her early 40s in white lab coat with hospital ID badge, holding the GH-ELEVATE EX++™ bottle, modern Seoul medical research facility background with cyan-toned ambient lighting, trustworthy clinical aesthetic.", "midjourney_params": "--ar 4:5 --v 6 --style raw" },
+      { "id": "landing-guarantee-side", "location_in_template": "src/ProductPage.tsx → Guarantee → side_image", "aspect_ratio": "1:1", "prompt_en": "Close-up of an open hand holding three time-release GH-ELEVATE EX++™ capsules, cyan-tinted nano-particles visible through translucent shells, black marble background, dramatic cyan side-lighting, premium product macro.", "midjourney_params": "--ar 1:1 --v 6 --style raw" },
+      { "id": "landing-emotional-story", "location_in_template": "src/ProductPage.tsx → EmotionalStory → side_image", "aspect_ratio": "4:5", "prompt_en": "Editorial photo of Nathan, a 29-year-old man in business casual standing at the head of a glass conference room presenting to a team of 6, mid-gesture, audience leaning in, modern fintech office in Austin with city view, the framing emphasizes his presence at the head of the table, warm afternoon light.", "midjourney_params": "--ar 4:5 --v 6 --style raw" },
+      { "id": "landing-ugc-1", "location_in_template": "src/ProductPage.tsx → Statistics → ugc_video position 1", "aspect_ratio": "9:16", "prompt_en": "First-person mock-up of a vertical phone-recorded video, 27-year-old man measuring himself against a bedroom door frame on day 60, marking new height with pencil, caption text overlay reads 'Day 60. +3.2cm. Crying.', UGC authentic style, slightly shaky handheld feel.", "midjourney_params": "--ar 9:16 --v 6 --style raw" },
+      { "id": "landing-ugc-2", "location_in_template": "src/ProductPage.tsx → Statistics → ugc_video position 2", "aspect_ratio": "9:16", "prompt_en": "Vertical phone-recorded video mockup, young man holding up a pair of jeans visibly too short on him now, laughing in disbelief, caption text overlay 'These fit perfectly 60 days ago.', UGC home-recorded aesthetic, natural bedroom lighting.", "midjourney_params": "--ar 9:16 --v 6 --style raw" },
+      { "id": "landing-customer-avatars", "location_in_template": "src/ProductPage.tsx → CustomerAvatars → image_prompt", "aspect_ratio": "16:9", "prompt_en": "10 small square photos arranged horizontally, each a different man aged 22-38 from diverse ethnicities (Asian, Black, Latino, White, Middle Eastern, Mixed) holding the GH-ELEVATE EX++™ bottle giving a casual smile or thumbs up, each shot in a different real-life setting (gym, kitchen, office, bedroom, outdoor), UGC authentic, natural lighting.", "midjourney_params": "--ar 16:9 --v 6 --style raw" },
+      { "id": "landing-how-to-use-1", "location_in_template": "src/ProductPage.tsx → HowToUse → step 1", "aspect_ratio": "4:3", "prompt_en": "Realistic morning photo of a man's hand holding a single GH-ELEVATE EX++ capsule above a glass of cold water on a kitchen counter, soft morning window light, cyan-tinted shadows, 'Number 1 circle badge overlaid' upper left.", "midjourney_params": "--ar 4:3 --v 6 --style raw" },
+      { "id": "landing-how-to-use-2", "location_in_template": "src/ProductPage.tsx → HowToUse → step 2", "aspect_ratio": "4:3", "prompt_en": "Realistic photo of a bedside table at night: GH-ELEVATE EX++ bottle, single capsule on a small dish, glass of water, dim cyan-tinted ambient light from a smart lamp, calm modern masculine bedroom, 'Number 2 circle badge overlaid'.", "midjourney_params": "--ar 4:3 --v 6 --style raw" },
+      { "id": "landing-how-to-use-3", "location_in_template": "src/ProductPage.tsx → HowToUse → step 3", "aspect_ratio": "4:3", "prompt_en": "Realistic photo of a Sunday morning measurement: a man's hand marking a new pencil line on a vertical wall-mounted height chart dated '90/04/27', previous marks visible going back 12 weeks climbing upward, soft Sunday morning light, 'Number 3 circle badge overlaid'.", "midjourney_params": "--ar 4:3 --v 6 --style raw" },
+      { "id": "landing-comparison-product", "location_in_template": "src/ProductPage.tsx → Comparison → column 1 header", "aspect_ratio": "1:1", "prompt_en": "Small product photo of GH-ELEVATE EX++ matte black bottle on pure white background, clinical lighting.", "midjourney_params": "--ar 1:1 --v 6 --style raw" },
+      { "id": "landing-review-avatar-1", "location_in_template": "src/ProductPage.tsx → Reviews → review 1 (Marcus T.)", "aspect_ratio": "1:1", "prompt_en": "Circular portrait photo of a 28-year-old athletic White American man with short brown hair, fitted t-shirt, neutral plain dark gray background, natural lighting, confident relaxed smile.", "midjourney_params": "--ar 1:1 --v 6 --style raw" },
+      { "id": "landing-review-avatar-2", "location_in_template": "src/ProductPage.tsx → Reviews → review 2 (Daniel R.)", "aspect_ratio": "1:1", "prompt_en": "Circular portrait photo of a 34-year-old Latino American man with short black hair and trimmed beard, casual collared shirt, plain neutral background, warm natural smile.", "midjourney_params": "--ar 1:1 --v 6 --style raw" },
+      { "id": "landing-review-avatar-3", "location_in_template": "src/ProductPage.tsx → Reviews → review 3 (Aisha O.)", "aspect_ratio": "1:1", "prompt_en": "Circular portrait photo of a 31-year-old Black American woman with natural curls, smiling warmly, casual modern blouse, plain neutral background.", "midjourney_params": "--ar 1:1 --v 6 --style raw" },
+      { "id": "landing-review-avatar-4", "location_in_template": "src/ProductPage.tsx → Reviews → review 4 (James W.)", "aspect_ratio": "1:1", "prompt_en": "Circular portrait photo of a 31-year-old White American man in a navy button-down shirt, short business haircut, plain office-style neutral background, neutral honest expression.", "midjourney_params": "--ar 1:1 --v 6 --style raw" },
+      { "id": "landing-review-avatar-5", "location_in_template": "src/ProductPage.tsx → Reviews → review 5 (Kenji A.)", "aspect_ratio": "1:1", "prompt_en": "Circular portrait photo of a 25-year-old Japanese American man with short black hair, simple gray hoodie, plain neutral background, calm confident expression.", "midjourney_params": "--ar 1:1 --v 6 --style raw" },
+      { "id": "landing-final-guarantee-product", "location_in_template": "src/ProductPage.tsx → FinalGuarantee → product_image", "aspect_ratio": "1:1", "prompt_en": "Product photo of GH-ELEVATE EX++ matte black bottle on white background, smaller for side placement, premium tech-supplement aesthetic.", "midjourney_params": "--ar 1:1 --v 6 --style raw" },
+      { "id": "landing-final-cta-kit", "location_in_template": "src/ProductPage.tsx → FinalCTA → product_kit", "aspect_ratio": "16:9", "prompt_en": "Premium product mockup: 4 GH-ELEVATE EX++™ matte black bottles arranged with kit box and glass cup of water on polished black surface, cyan rim lighting, dramatic shadows, 'Dashed cyan border around composition', premium tech-pharma campaign aesthetic.", "midjourney_params": "--ar 16:9 --v 6 --style raw" },
+      { "id": "advertorial-hero", "location_in_template": "src/App.tsx → HeroImage → image_prompt", "aspect_ratio": "16:9", "prompt_en": "Photorealistic full-body before-and-after split image of a 28-year-old athletic man, left labeled 'DAY 1' (173.2cm), right 'DAY 90' (178.4cm), same exact man same wall same clothing same lighting, horizontal reference lines, GH-ELEVATE EX++™ bottle bottom right with cyan label readable, cinematic dark biohacker aesthetic with cyan rim lighting.", "midjourney_params": "--ar 16:9 --v 6 --style raw" },
+      { "id": "advertorial-sticky-product", "location_in_template": "src/App.tsx → StickySidebar → product_image", "aspect_ratio": "1:1", "prompt_en": "Small product photo of GH-ELEVATE EX++ matte black bottle on white background, sidebar-sized, premium aesthetic.", "midjourney_params": "--ar 1:1 --v 6 --style raw" },
+      { "id": "advertorial-social-proof", "location_in_template": "src/App.tsx → SocialProofVisual → image_prompt", "aspect_ratio": "4:5", "prompt_en": "Editorial portrait of a confident athletic man late 20s in three-quarter profile in modern minimalist apartment with floor-to-ceiling windows, fitted dark layered clothing (charcoal henley over white tee), hand in pocket, posture relaxed but tall, expression composed slightly smiling, soft natural light meets cyan-tinted ambient light, premium men's lifestyle photography.", "midjourney_params": "--ar 4:5 --v 6 --style raw" },
+      { "id": "advertorial-scientific-explanation", "location_in_template": "src/App.tsx → ScientificExplanation → image_prompt", "aspect_ratio": "16:9", "prompt_en": "Split scientific medical illustration. Left: macro X-ray-style image of adult femur showing dormant epiphyseal plate, gray bone-white tones. Right: scientific microscopy view of the same plate actively reactivated, chondrocytes dividing, cyan-tinted Somatropex-9 molecules permeating matrix, golden cellular glow. Premium scientific illustration aesthetic similar to Nature journal cover.", "midjourney_params": "--ar 16:9 --v 6 --style raw" },
+      { "id": "advertorial-dramatic-before-after", "location_in_template": "src/App.tsx → DramaticBeforeAfter → image_prompt", "aspect_ratio": "3:4", "prompt_en": "Vertical split full-body before/after of a 27-year-old athletic man, left 'DAY 1' (173.4cm), right 'DAY 90' (178.6cm), same man same wall same clothing same lighting same camera angle, visibly taller with cyan reference lines, realistic believable not exaggerated, studio-quality consistent lighting, neutral dark gray background.", "midjourney_params": "--ar 3:4 --v 6 --style raw" },
+      { "id": "advertorial-story-1", "location_in_template": "src/App.tsx → CustomerStories → Story 1 (Anthony L., 26)", "aspect_ratio": "3:4", "prompt_en": "Photorealistic vertical split before/after of Anthony, 26-year-old man with short dark hair, against a wall-mounted height chart in his apartment, left 'DAY 1' (169.8cm) in white t-shirt, right 'DAY 90' (175.5cm) same wall same shirt same posture, cyan reference lines, cinematic moody lighting biohacker aesthetic.", "midjourney_params": "--ar 3:4 --v 6 --style raw" },
+      { "id": "advertorial-story-2", "location_in_template": "src/App.tsx → CustomerStories → Story 2 (Nathan K., 29)", "aspect_ratio": "3:4", "prompt_en": "Photorealistic vertical split of Nathan, 29-year-old software engineer with glasses and trimmed beard, in his Austin home office, left 'DAY 1' (165.2cm) in fitted gray hoodie slightly slouched, right 'DAY 90' (169.9cm) same office same hoodie visibly taller and standing notably straighter, warm afternoon light.", "midjourney_params": "--ar 3:4 --v 6 --style raw" },
+      { "id": "advertorial-story-3", "location_in_template": "src/App.tsx → CustomerStories → Story 3 (Marcus Thompson testimonial)", "aspect_ratio": "4:3", "prompt_en": "Realistic photo of a 28-year-old athletic man standing in front of a digital stadiometer in a doctor's office, screen showing '178.6cm' clearly, doctor in background looking puzzled at clipboard, clean clinical lighting, documentary realism.", "midjourney_params": "--ar 4:3 --v 6 --style raw" },
+      { "id": "advertorial-story-4", "location_in_template": "src/App.tsx → CustomerStories → Story 4 (James Whittaker testimonial)", "aspect_ratio": "4:3", "prompt_en": "Realistic photo of a 31-year-old man in a tailor's shop marking sleeve length adjustments on a navy suit jacket no longer fitting, side mirror reflection, soft warm tailor-shop lighting, candid documentary feel.", "midjourney_params": "--ar 4:3 --v 6 --style raw" },
+      { "id": "advertorial-story-5", "location_in_template": "src/App.tsx → CustomerStories → Story 5 (Robert Castellano testimonial)", "aspect_ratio": "4:3", "prompt_en": "Realistic portrait of a 38-year-old man in business casual in his home office, hand resting on a height-tracking chart on the wall behind his desk, visible weekly pencil marks across 90 days climbing upward, soft natural light, contemplative expression.", "midjourney_params": "--ar 4:3 --v 6 --style raw" },
+      { "id": "advertorial-promotional-kit", "location_in_template": "src/App.tsx → PromotionalKit → image_prompt", "aspect_ratio": "16:9", "prompt_en": "Premium tech-pharma product mockup: 4 GH-ELEVATE EX++™ matte black bottles arranged in a row beside black-and-cyan kit box and smaller bonus stack bottle, polished black surface with cyan rim lighting, dramatic shadows, '50% OFF + BONUS STACK' starburst badge upper right, premium aesthetic.", "midjourney_params": "--ar 16:9 --v 6 --style raw" }
+    ]
+  }
+}
